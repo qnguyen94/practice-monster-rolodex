@@ -2,10 +2,6 @@
   "name": "basic-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/qnguyen94/practice-monster-rolodex",
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
